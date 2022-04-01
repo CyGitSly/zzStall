@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="assigned_to" label="Assigned To" language="en" table="x_793179_zzstall_zzstall">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <help/>
+            <hint/>
+            <label>Assigned To</label>
+            <language>en</language>
+            <name>x_793179_zzstall_zzstall</name>
+            <plural>Assigned Tos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-01 13:33:15</sys_created_on>
+            <sys_id>ad3d5e1a2f2201108ac8aa5df699b692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assigned To</sys_name>
+            <sys_package display_value="zzStall" source="x_793179_zzstall">33b8ded22f2201108ac8aa5df699b6b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="zzStall">33b8ded22f2201108ac8aa5df699b6b9</sys_scope>
+            <sys_update_name>sys_documentation_x_793179_zzstall_zzstall_assigned_to_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-01 13:33:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
